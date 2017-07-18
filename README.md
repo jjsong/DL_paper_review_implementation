@@ -1,6 +1,6 @@
 ## DL paper review & note
 
-001  [Neural Episodic Control](./DLpaper/001_Neural_Episodic_Control/1703.01988.pdf)   || [Note](./DLpaper/001_Neural_Episodic_Control/Neural_Episodic_Control.ipynb) 
+001  [Neural Episodic Control](./DL_paper/001_Neural_Episodic_Control/1703.01988.pdf)   || [Note](./DL_paper/001_Neural_Episodic_Control/Neural_Episodic_Control.ipynb) 
 
 002  [Auto-Encoding_Variational Bayes](./DL_paper/002_Auto_Encoding_Variational_Bayes/1312.6114.pdf)   ||   [Note](./DL_paper/002_Auto_Encoding_Variational_Bayes/002_Auto-Encoding_Variational_Bayes.md) 
 
