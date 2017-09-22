@@ -8,5 +8,5 @@
 
 004 [Revisiting_unreasonable_effectiveness_of_data](./DL_paper/004_Revisiting_unreasonable_effectiveness_of_data/1707.02968.pdf)   ||  [Note](./DL_paper/004_Revisiting_unreasonable_effectiveness_of_data/revisiting_unreasonable_effectiveness_of_data.pdf)
 
-
+005 [Deep_Learning_Is_Robust_To_Massive_Lavel_Noise](./DL_paper/005_Deep_Learning_Is_Robust_To_Massive_Lavel_Noise/1705.10694.pdf)   ||  [Note](./DL_paper/005_Deep_Learning_Is_Robust_To_Massive_Lavel_Noise/Deep_Learning_Is_Robust_To_Massive_Lavel_Noise.pdf)
 
